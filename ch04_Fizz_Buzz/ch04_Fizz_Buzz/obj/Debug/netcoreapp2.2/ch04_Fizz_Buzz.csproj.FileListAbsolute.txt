@@ -1,0 +1,11 @@
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\bin\Debug\netcoreapp2.2\ch04_Fizz_Buzz.deps.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\bin\Debug\netcoreapp2.2\ch04_Fizz_Buzz.runtimeconfig.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\bin\Debug\netcoreapp2.2\ch04_Fizz_Buzz.runtimeconfig.dev.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\bin\Debug\netcoreapp2.2\ch04_Fizz_Buzz.dll
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\bin\Debug\netcoreapp2.2\ch04_Fizz_Buzz.pdb
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\obj\Debug\netcoreapp2.2\ch04_Fizz_Buzz.csprojAssemblyReference.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\obj\Debug\netcoreapp2.2\ch04_Fizz_Buzz.csproj.CoreCompileInputs.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\obj\Debug\netcoreapp2.2\ch04_Fizz_Buzz.AssemblyInfoInputs.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\obj\Debug\netcoreapp2.2\ch04_Fizz_Buzz.AssemblyInfo.cs
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\obj\Debug\netcoreapp2.2\ch04_Fizz_Buzz.dll
+C:\Users\max-s\source\repos\c-sharp-instruction\ch04_Fizz_Buzz\ch04_Fizz_Buzz\obj\Debug\netcoreapp2.2\ch04_Fizz_Buzz.pdb
