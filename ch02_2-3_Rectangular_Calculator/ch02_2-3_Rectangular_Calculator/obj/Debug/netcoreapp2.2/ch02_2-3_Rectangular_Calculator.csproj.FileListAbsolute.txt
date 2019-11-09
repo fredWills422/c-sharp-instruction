@@ -1,0 +1,11 @@
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\bin\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.deps.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\bin\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.runtimeconfig.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\bin\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.runtimeconfig.dev.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\bin\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.dll
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\bin\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.pdb
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\obj\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.csprojAssemblyReference.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\obj\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\obj\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.AssemblyInfoInputs.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\obj\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.AssemblyInfo.cs
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\obj\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.dll
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-3_Rectangular_Calculator\ch02_2-3_Rectangular_Calculator\obj\Debug\netcoreapp2.2\ch02_2-3_Rectangular_Calculator.pdb
