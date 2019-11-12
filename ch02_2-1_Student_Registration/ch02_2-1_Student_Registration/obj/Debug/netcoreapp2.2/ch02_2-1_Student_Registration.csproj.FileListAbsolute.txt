@@ -1,0 +1,11 @@
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\bin\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.deps.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\bin\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.runtimeconfig.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\bin\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.runtimeconfig.dev.json
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\bin\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.dll
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\bin\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.pdb
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\obj\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.csprojAssemblyReference.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\obj\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.csproj.CoreCompileInputs.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\obj\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.AssemblyInfoInputs.cache
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\obj\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.AssemblyInfo.cs
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\obj\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.dll
+C:\Users\max-s\source\repos\c-sharp-instruction\ch02_2-1_Student_Registration\ch02_2-1_Student_Registration\obj\Debug\netcoreapp2.2\ch02_2-1_Student_Registration.pdb
