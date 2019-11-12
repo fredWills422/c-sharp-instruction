@@ -1,0 +1,11 @@
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\bin\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.deps.json
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\bin\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.runtimeconfig.json
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\bin\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.runtimeconfig.dev.json
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\bin\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.dll
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\bin\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.pdb
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\obj\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.csprojAssemblyReference.cache
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\obj\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.csproj.CoreCompileInputs.cache
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\obj\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.AssemblyInfoInputs.cache
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\obj\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.AssemblyInfo.cs
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\obj\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.dll
+C:\Users\max-s\source\repos\ch03_Project_3-1_Temperature_Converter\ch03_Project_3-1_Temperature_Converter\obj\Debug\netcoreapp2.2\ch03_Project_3-1_Temperature_Converter.pdb
